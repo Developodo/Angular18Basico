@@ -1,5 +1,6 @@
 # Helloworld
 Desarrollado en Angular 18
-.gitignore > añadir la carpeta dist
-ng build --base-href=xxx
-Configurar github page ara desplegar de la carpeta /dist/browser.
+Angular.json >  "outputPath": "docs",
+ng build --base-href=Angular18Basico/browser
+Configurar github page ara desplegar de la carpeta /docs
+//https://developodo.github.io/Angular18Basico/browser/
