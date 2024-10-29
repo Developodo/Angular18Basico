@@ -1,6 +1,10 @@
 # Helloworld
-Desarrollado en Angular 18
-Angular.json >  "outputPath": "docs",
+
+Este es un proyecto desarrollado en **Angular 18**.
+
+## Configuración de Build
+- El archivo de configuración `angular.json` contiene el siguiente ajuste:
+  ```json
+  "outputPath": "docs"
+
 ng build --base-href=Angular18Basico/browser
-Configurar github page ara desplegar de la carpeta /docs
-//https://developodo.github.io/Angular18Basico/browser/
