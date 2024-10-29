@@ -2,8 +2,17 @@
 <ul>
     @if(todo.length>0){
         @for(task of todo;track task.id){
-         <li>{{task.title}} 
-            <button (click)="removeTask(task.id)">X</button>
+         <li>
+            @if(task.update){
+                <input type="text" [(ngModel)]="task.newTitle" name="newTitle">
+                <button (click)="updateTask(task)">Guardar</button>
+                <button (click)="cancelEdit(task)">X</button>
+            }@else{
+                {{task.title}} 
+                <button (click)="removeTask(task.id)">X</button>
+                <button (click)="editTask(task)">E</button>
+            }
+            
         </li>
      }
     }@else{

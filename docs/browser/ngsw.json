@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1730193256100,
+  "timestamp": 1730197688452,
   "index": "/Angular18Basico/browser/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/Angular18Basico/browser/favicon.ico",
         "/Angular18Basico/browser/index.html",
-        "/Angular18Basico/browser/main-3BX53IO2.js",
+        "/Angular18Basico/browser/main-E2DKN3VV.js",
         "/Angular18Basico/browser/manifest.webmanifest",
         "/Angular18Basico/browser/polyfills-FFHMD2TL.js",
         "/Angular18Basico/browser/styles-DZ6UBGXD.css"
@@ -51,8 +51,8 @@
     "/Angular18Basico/browser/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
     "/Angular18Basico/browser/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
     "/Angular18Basico/browser/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
-    "/Angular18Basico/browser/index.html": "d68af3aef3f6a7d77ba9fe64d9f5ffa26cb32e6c",
-    "/Angular18Basico/browser/main-3BX53IO2.js": "691bb0150a531cab3db3b1b053d052a13760c329",
+    "/Angular18Basico/browser/index.html": "5c241d59605d510226d77298dc7395f75c618714",
+    "/Angular18Basico/browser/main-E2DKN3VV.js": "32adb62e6e185667d50d63493d816f7af8a4aada",
     "/Angular18Basico/browser/manifest.webmanifest": "883f2013f0ec65702b668b2a8f3452e474116661",
     "/Angular18Basico/browser/polyfills-FFHMD2TL.js": "f49b49a155bc7d192db62a4c15d0a612b460a667",
     "/Angular18Basico/browser/styles-DZ6UBGXD.css": "3e59d134825758cdbf92d6e61c042223b645d67a"

@@ -1,5 +1,7 @@
 
 export interface task{ 
     id?:number,
-    title:string
+    title:string,
+    update?:boolean,
+    newTitle?:string
 }
