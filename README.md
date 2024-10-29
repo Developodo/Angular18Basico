@@ -7,4 +7,4 @@ Este es un proyecto desarrollado en **Angular 18**.
   ```json
   "outputPath": "docs"
 
-ng build --base-href=Angular18Basico/browser
+ng build --base-href=Angular18Basico/browser/
